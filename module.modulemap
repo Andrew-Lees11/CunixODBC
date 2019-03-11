@@ -16,6 +16,6 @@
 
  module CunixODBC {
     header "shim.h"
-    link "unixodbc"
+    link "odbc"
     export *
 }
